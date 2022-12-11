@@ -1,4 +1,4 @@
 # test
 test
 #HELLO
-This file was modified locally
+This line was modified during conflicts resolution
